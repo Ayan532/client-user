@@ -1,0 +1,1 @@
+export const SERVER="https://api-user-nine.vercel.app/users"
